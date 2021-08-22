@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: WEB-SECURITY-SERVICE
+server:
+  port: 9007
